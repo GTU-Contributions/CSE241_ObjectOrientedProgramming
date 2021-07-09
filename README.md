@@ -3,7 +3,7 @@ Gebze Technical University
 
 HWs - Fall 2015
 
-Instructor: Yusuf Sinan Akgul
+Instructor: Prof. Dr. Yusuf Sinan Akgul
 
 Course Book: Absolute C++ by Walter Savitch
 
